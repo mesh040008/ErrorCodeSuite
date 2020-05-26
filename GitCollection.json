@@ -1,0 +1,21 @@
+{
+	"info": {
+		"_postman_id": "86b1f47e-ab16-4702-9f18-1e9e44fafef6",
+		"name": "GitCollection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "test",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}
